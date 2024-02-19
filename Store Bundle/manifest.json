@@ -1,0 +1,10 @@
+{
+	"name": "Deathmatch",
+	"version_number": "1.0.0",
+	"description": "A Lethal Company mod for deathmatch! Remove enemies, infinite sprint, infinite ammo, instant respawn, and more.",
+	"website_url": "https://github.com/Jared-Is-Coding/LCDeathmatch",
+	"dependencies": [
+		"BepInEx-BepInExPack-5.4.2100",
+		"Evaisa-LethalLib-0.14.2"
+	]
+}
