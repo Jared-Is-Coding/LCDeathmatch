@@ -7,7 +7,7 @@ A Lethal Company mod for deathmatch! Remove enemies, infinite sprint, infinite a
 
 ## Gameplay Modifications
 
-- Order yourself a shotgun in the terminal and take on the role of the seeker. *It's like shooting fish in a barrel!*
+- Order yourself a shotgun in the terminal
 - Time of Day clock always visible
 - Inverse teleporter is on the ship at the beginning of the game
 - Inverse teleporter does not remove player inventory
